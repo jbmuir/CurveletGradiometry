@@ -1,0 +1,5 @@
+/Users/jackbmuir/Builds/cvmh/bin/vx_lite  -m /Users/jackbmuir/Builds/cvmh/model/ < mfileusc.txt > dfileusc.txt
+/Users/jackbmuir/Builds/cvmh/bin/vx_lite  -m /Users/jackbmuir/Builds/cvmh/model/ < mfilemwc.txt > dfilemwc.txt
+/Users/jackbmuir/Builds/cvmh/bin/vx_lite  -m /Users/jackbmuir/Builds/cvmh/model/ < mfilevtv.txt > dfilevtv.txt
+/Users/jackbmuir/Builds/cvmh/bin/vx_lite  -m /Users/jackbmuir/Builds/cvmh/model/ < mfilevtv.txt > dfilevtv.txt
+/Users/jackbmuir/Builds/cvmh/bin/vx_lite  -m /Users/jackbmuir/Builds/cvmh/model/ < mfileusc.txt > dfileusc.txt
